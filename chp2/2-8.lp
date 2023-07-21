@@ -1,3 +1,6 @@
+% This is more like a notebook / journal:
+% I just collapsed all the answers for the samll exercises into one file, but obviously it wouldn't make sense to run this file from the command line --- you would want to split them up if you actually want to run the answers
+
 % Exercise2.11
 
 %% a) want p(0,1) p(1,-1) p(2,1) p(3,-1) p(4,1)
